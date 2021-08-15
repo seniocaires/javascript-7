@@ -11,3 +11,5 @@
 <a href="https://seniocaires.github.io/javascript-7/canvas" target="_blank">Canvas</a>
 
 <a href="https://seniocaires.github.io/javascript-7/quiz" target="_blank">Quiz</a>
+
+<a href="https://seniocaires.github.io/javascript-7/arrastar-soltar" target="_blank">Arrastar e soltar</a>
